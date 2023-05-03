@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+## Description
+
+React-TypeScript crash course by Vladilen Minin - https://www.youtube.com/watch?v=OJ16BaPC6VI (2022)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
