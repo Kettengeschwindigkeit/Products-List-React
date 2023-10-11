@@ -1,6 +1,6 @@
 ## Description
 
-React-TypeScript crash course by Vladilen Minin - https://www.youtube.com/watch?v=OJ16BaPC6VI (2022)
+ReactJS & TypeScript quick course 2022 by Vladilen Minin - https://www.youtube.com/watch?v=OJ16BaPC6VI
 
 ## Getting Started with Create React App
 
